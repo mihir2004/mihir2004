@@ -6,11 +6,10 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -21,12 +20,17 @@ Welcome to my GitHub profile! I'm a passionate developer from India, and I enjoy
 
 ## 🌟 Popular Repositories
 
-- [GrowS-IIT-Ropar-1](https://github.com/mihir2004/GrowS-IIT-Ropar-1): Python project.
-- [mihir.github.io](https://github.com/mihir2004/mihir.github.io): Personal website built with HTML.
-- [Tailwindproj1](https://github.com/mihir2004/Tailwindproj1): Landing page inspired by VRfest using Tailwind CSS.
-- [TinDog](https://github.com/mihir2004/TinDog): Tinder for dogs created during a course.
-- [Ecstasy](https://github.com/mihir2004/Ecstasy): Landing page made for a startup.
-- [schedule](https://github.com/mihir2004/schedule): CSS project.
+- [DataTalk](https://github.com/mihir2004/DataTalk): A project built on Gemini API that processes NLP queries and translates them into SQL queries to retrieve data from a database.
+- [whatsappbot](https://github.com/mihir2004/whatsappbot): An automated bot for WhatsApp, built using JavaScript.
+- [connect](https://github.com/mihir2004/connect): A landing page generating webpage.
+- [BlogsiteAPI](https://github.com/mihir2004/BlogsiteAPI): A RESTful API for managing blog sites.
+- [resumetailor](https://github.com/mihir2004/resumetailor): A tool for creating tailored resumes using HTML and CSS.
+
+## 🌱 I’m currently learning
+
+- React
+- Next
+- Docker
 
 ## 📫 How to Reach Me
 
@@ -36,4 +40,5 @@ Welcome to my GitHub profile! I'm a passionate developer from India, and I enjoy
 Feel free to explore my repositories, contribute, and reach out if you have any questions or collaboration ideas!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mihir2004&color=blue)
+
 
