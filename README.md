@@ -1,5 +1,5 @@
 # Hi there, I'm Mihir 👋
-
+![Profile Views](https://komarev.com/ghpvc/?username=mihir2004&color=brightgreen)
 ### 🚀 About Me
 
 - 🎓 I'm a **3rd-year B.Tech Chemical Engineering** student at **IIT Ropar**.
