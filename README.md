@@ -1,44 +1,61 @@
-## Hi there 👋
+# Hi there, I'm Mihir 👋
 
-<!--
-**mihir2004/mihir2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
 
-Here are some ideas to get you started:
+- 🎓 I'm a **3rd-year B.Tech Chemical Engineering** student at **IIT Ropar**.
+- 💻 Passionate about **Software Development** and **AI**.
+- 🌐 Backend developer using **Node.js** with experience in **JavaScript** and **React**.
+- 📊 Currently working on projects related to **Flashcards Learning Tool**, **Promptbot**, and **YoutubeBackend**.
+- 📚 Active learner on **LeetCode**, solving algorithmic problems and improving coding skills.
 
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+### 🔗 Connect with me
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [LinkedIn](https://www.linkedin.com/in/mihir-kasare/) 
+- [LeetCode](https://leetcode.com/u/mihir_kasare/)
+- [GitHub](https://github.com/mihir2004)
 
-# Hi there, I'm Mihir Kasare! 👋
+---
 
-Welcome to my GitHub profile! I'm a passionate developer from India, and I enjoy working on a variety of projects. Here you'll find repositories showcasing my work in Python, HTML, CSS, and JavaScript.
+### 🛠️ Tech Stack
 
-## 🌟 Popular Repositories
+- **Languages:** ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript), ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+- **Frontend:** ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react), ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css)
+- **Backend:** ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase), ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+- **Tools:** ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel), ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify), ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-333333?style=flat&logo=digitalocean)
 
-- [DataTalk](https://github.com/mihir2004/DataTalk): A project built on Gemini API that processes NLP queries and translates them into SQL queries to retrieve data from a database.
-- [whatsappbot](https://github.com/mihir2004/whatsappbot): An automated bot for WhatsApp, built using JavaScript.
-- [connect](https://github.com/mihir2004/connect): A landing page generating webpage.
-- [BlogsiteAPI](https://github.com/mihir2004/BlogsiteAPI): A RESTful API for managing blog sites.
-- [resumetailor](https://github.com/mihir2004/resumetailor): A tool for creating tailored resumes using HTML and CSS.
+---
 
-## 🌱 I’m currently learning
+### 📈 GitHub Stats
 
-- React
-- Next
-- Docker
+![GitHub Streak](https://streak-stats.demolab.com/?user=mihir2004&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihir2004&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mihir2004&show_icons=true&theme=radical)
 
-## 📫 How to Reach Me
+---
 
-- Twitter: [@nabeernabiceps](https://twitter.com/nabeernabiceps)
-- Discord: [.lovelock](https://discordapp.com/users/.lovelock)
+### 🚀 LeetCode Stats
 
-Feel free to explore my repositories, contribute, and reach out if you have any questions or collaboration ideas!
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=mihir_kasare)
 
-![Profile Views](https://komarev.com/ghpvc/?username=mihir2004&color=blue)
+---
 
+### 📂 Featured Projects
 
+- **[Flashcard Learning Tool](https://github.com/mihir2004/flashcard-learning-tool)** - React app with PostgreSQL integration.
+- **[Promptbot](https://github.com/mihir2004/promptbot)** - Interactive Whatsapp Bot to store and set reminders.
+- **[Synthetic Reaction](https://github.com/mihir2004/SyntheticReaction)** - Project for synthetic reaction mechanisms.
+
+---
+
+### 📫 How to reach me
+
+Feel free to reach out to me via [kasaremihir2004@gmail.com](mailto:kasaremihir2004@gmail.com) or connect with me on LinkedIn!
+
+---
+
+### 🏆 Contributions and Achievements
+
+- Contributed to **Zeitgeist 2024** as the FInance Head for the cultural fest at **IIT Ropar**.
+- Active participant in coding contests and hackathons.
+
+Thank you for visiting my profile! 😊
