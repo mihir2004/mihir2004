@@ -43,8 +43,8 @@
 
 ### 📂 Featured Projects
 
-- **[Flashcard Learning Tool](https://github.com/mihir2004/flashcard-learning-tool)** - React app with PostgreSQL integration.
-- **[Promptbot](https://github.com/mihir2004/promptbot)** - Interactive Whatsapp Bot to store and set reminders.
+- **[Flashcard Learning Tool](https://github.com/mihir2004/flashcard)** - React app with PostgreSQL integration.
+- **[Promptbot](https://github.com/mihir2004/whatsappbot)** - Interactive Whatsapp Bot to store and set reminders.
 - **[Synthetic Reaction](https://github.com/mihir2004/SyntheticReaction)** - Project for synthetic reaction mechanisms.
 
 ---
