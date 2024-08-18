@@ -35,7 +35,6 @@
 
 ### 🚀 LeetCode Stats
 
-![LeetCode Stats]
 <p align="center">
   
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/mihir_kasare?theme=nord&font=Noto%20Sans&ext=heatmap" />  
