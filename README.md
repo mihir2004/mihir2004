@@ -8,6 +8,8 @@
 - 📊 Currently working on projects related to **Flashcards Learning Tool**, **Promptbot**, and **YoutubeBackend**.
 - 📚 Active learner on **LeetCode**, solving algorithmic problems and improving coding skills.
 
+[![An image of @mihir2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mihir2004)](https://holopin.io/@mihir2004)
+
 ### 🔗 Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/mihir-kasare/) 
