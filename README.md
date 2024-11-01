@@ -1,18 +1,20 @@
 # Hi there, I'm Mihir 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=mihir2004&color=brightgreen)
+
 ### 🚀 About Me
 
 - 🎓 I'm a **3rd-year B.Tech Chemical Engineering** student at **IIT Ropar**.
 - 💻 Passionate about **Software Development** and **AI**.
-- 🌐 Backend developer using **Node.js** with experience in **JavaScript** and **React**.
-- 📊 Currently working on projects related to **Flashcards Learning Tool**, **Promptbot**, and **YoutubeBackend**.
-- 📚 Active learner on **LeetCode**, solving algorithmic problems and improving coding skills.
+- 🌐 Backend developer experienced in **Node.js**, **JavaScript**, and **React**.
+- 📊 Currently working on projects including **Flashcards Learning Tool**, **Promptbot**, **SuperTicTacToe**, **ResmeTailor**, and **Connect**.
+- 📚 Active learner on **LeetCode**, solving algorithmic problems to enhance coding skills.
+- 🎉 Selected as the **Overall Coordinator for Advitiya 2025**, the Techfest of **IIT Ropar**.
 
 [![An image of @mihir2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mihir2004)](https://holopin.io/@mihir2004)
 
 ### 🔗 Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/mihir-kasare/) 
+- [LinkedIn](https://www.linkedin.com/in/mihir-kasare/)
 - [LeetCode](https://leetcode.com/u/mihir_kasare/)
 - [GitHub](https://github.com/mihir2004)
 
@@ -38,16 +40,18 @@
 ### 🚀 LeetCode Stats
 
 <p align="center">
-  
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/mihir_kasare?theme=nord&font=Noto%20Sans&ext=heatmap" />  
+  <img align="top" src="https://leetcard.jacoblin.cool/mihir_kasare?theme=nord&font=Noto%20Sans&ext=heatmap" />  
 </p>
+
 ---
 
 ### 📂 Featured Projects
 
-- **[Flashcard Learning Tool](https://github.com/mihir2004/flashcard)** - React app with PostgreSQL integration.
-- **[Promptbot](https://github.com/mihir2004/whatsappbot)** - Interactive Whatsapp Bot to store and set reminders.
-- **[Synthetic Reaction](https://github.com/mihir2004/SyntheticReaction)** - Project for synthetic reaction mechanisms.
+- **[Flashcard Learning Tool](https://github.com/mihir2004/flashcard)** - A React app with PostgreSQL integration for enhanced learning experiences.
+- **[Promptbot](https://github.com/mihir2004/whatsappbot)** - An interactive WhatsApp Bot for setting reminders and storing notes.
+- **[SuperTicTacToe](https://github.com/mihir2004/supertictactoe)** - An advanced version of the classic TicTacToe game with additional challenges and features.
+- **[ResmeTailor](https://github.com/mihir2004/resmetailor)** - A resume customization tool designed for easy and personalized resume building.
+- **[Connect](https://github.com/mihir2004/connect)** - A social networking platform focusing on connecting like-minded individuals for collaboration and networking.
 
 ---
 
@@ -59,7 +63,10 @@ Feel free to reach out to me via [kasaremihir2004@gmail.com](mailto:kasaremihir2
 
 ### 🏆 Contributions and Achievements
 
-- Contributed to **Zeitgeist 2024** as the FInance Head for the cultural fest at **IIT Ropar**.
-- Active participant in coding contests and hackathons.
+- **Overall Coordinator** for **Advitiya 2025**, the annual Techfest of **IIT Ropar**.
+- Contributed to **Zeitgeist 2024** as the **Finance Head** for the cultural fest at **IIT Ropar**.
+- Actively participated in **Hacktoberfest 2024**, contributing to open-source projects and expanding collaborative development skills.
+- Engaged in several coding contests and hackathons, showcasing problem-solving skills and coding expertise.
+- Contributions to open-source projects in areas of backend development and bot automation.
 
 Thank you for visiting my profile! 😊
