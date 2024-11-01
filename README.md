@@ -65,7 +65,8 @@ Feel free to reach out to me via [kasaremihir2004@gmail.com](mailto:kasaremihir2
 
 - **Overall Coordinator** for **Advitiya 2025**, the annual Techfest of **IIT Ropar**.
 - Contributed to **Zeitgeist 2024** as the **Finance Head** for the cultural fest at **IIT Ropar**.
-- Actively participated in **Hacktoberfest 2024**, contributing to open-source projects and expanding collaborative development skills.
+- Actively participated in **Hacktoberfest 2024**, contributing to open-source projects including **Tooljet** and **Tails-Component**.
+- Contributed to **Tooljet** and **Tails-Component**, enhancing features and improving user experience for the open-source community.
 - Engaged in several coding contests and hackathons, showcasing problem-solving skills and coding expertise.
 - Contributions to open-source projects in areas of backend development and bot automation.
 
