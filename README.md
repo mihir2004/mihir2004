@@ -6,7 +6,7 @@
 - 🎓 I'm a **3rd-year B.Tech Chemical Engineering** student at **IIT Ropar**.
 - 💻 Passionate about **Software Development** and **AI**.
 - 🌐 Backend developer experienced in **Node.js**, **JavaScript**, and **React**.
-- 📊 Currently working on projects including **Flashcards Learning Tool**, **Promptbot**, **SuperTicTacToe**, **ResmeTailor**, and **Connect**.
+- 📊 Currently working on projects including **Flashcards Learning Tool**, **Promptbot**, **SuperTicTacToe**, **ResumeTailor**, and **Connect**.
 - 📚 Active learner on **LeetCode**, solving algorithmic problems to enhance coding skills.
 - 🎉 Selected as the **Overall Coordinator for Advitiya 2025**, the Techfest of **IIT Ropar**.
 
