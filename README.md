@@ -85,7 +85,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=mihir2004&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mihir2004&theme=radical&hide_border=false)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mihir2004&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihir2004&layout=compact&theme=radical)
 
