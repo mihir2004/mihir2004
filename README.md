@@ -80,12 +80,17 @@
 - ⚙️ Built and deployed multiple full-stack apps on **Render**, **DigitalOcean**, and **Vercel**.
 
 ---
+### GitHub Contribution Heatmap
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mihir2004&theme=radical&bg_color=0D1117&hide_border=true&area=true" alt="Mihir's GitHub Activity Graph" />
+</p>
 
 ### 📈 GitHub & LeetCode Stats
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mihir2004&theme=radical&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=mihir2004&theme=radical&hide_border=false)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mihir2004&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihir2004&layout=compact&theme=radical)
 
