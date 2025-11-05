@@ -1,3 +1,8 @@
+
+<a href="https://holopin.io/@mihir2004" target="_blank">
+  <img src="https://assets.holopin.io/hf2025levels/lvl0-astronaut.webp" width="120" alt="Holopin Astronaut Badge" />
+</a> 
+
 # Hi there, I’m Mihir 👋  
 ![Profile Views](https://komarev.com/ghpvc/?username=mihir2004&color=brightgreen)
 
